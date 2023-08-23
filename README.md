@@ -64,7 +64,7 @@ Aqui estão algumas das tecnologias, frameworks e bibliotecas com as quais estou
 
 ## Estatísticas do GitHub
 
-[![](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=TaisPorto)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Como Entrar Em Contato
 
